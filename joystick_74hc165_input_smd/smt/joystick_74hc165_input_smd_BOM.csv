@@ -1,0 +1,5 @@
+Designator,Footprint,Comment,
+"RN2,RN1,RN4,RN5,RN3,RN6",R_Array_Concave_4x0603,10K,C29718
+"C1,C2,C3",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,100nF,
+"74HC165_1,74HC165_2,74HC165_3",SOIC-16_3.9x9.9mm_P1.27mm,74HC165,
+C4,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,22nF,
