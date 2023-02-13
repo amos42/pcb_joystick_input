@@ -34,12 +34,13 @@ GPIO 보호 기능을 갖는 입력 모듈
 
 ![샘플](images/joystick_gpio_input.jpg)
 
+![샘플](images/joystick_gpio_input2.jpg)
+
 
 ## 점퍼 세팅
 
 커넥터 중 J3는 일부 핀을 점퍼 세팅으로 변경이 가능하다.
 
 * R* - 1-2 끊고 2-3 쇼트시, J3의 Right 핀이 GND로 쇼트
-* ST* - 1-2 끊고 2-3 쇼트시, J3의 Start 핀이 GND로 쇼트
 * SL* - 1-2 끊고 2-3 쇼트시, J3의 Select 핀이 GND로 쇼트
 * HK* - 1-2 끊고 2-3 쇼트시, J3의 HotKey 핀이 GND로 쇼트
