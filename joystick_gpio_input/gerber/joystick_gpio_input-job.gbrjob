@@ -3,18 +3,18 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.10)"
+      "Version": "(7.0.0)"
     },
-    "CreationDate": "2023-02-13T19:14:31+09:00"
+    "CreationDate": "2023-03-12T00:46:27+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "joystick_gpio_input",
       "GUID": "6a6f7973-7469-4636-9b5f-6770696f5f69",
-      "Revision": "1"
+      "Revision": "2"
     },
     "Size": {
-      "X": 32.866,
+      "X": 35.406,
       "Y": 46.836
     },
     "LayerNumber": 2,
