@@ -3,6 +3,20 @@
 GPIO 보호 기능을 갖는 입력 모듈
 
 ---
+mk_arcade_joystick_rpi의 GPIO 입력 맵을 기본으로 했다.
+
+am_joyin 드라이버도 해당 GPIO 입력 맵과 호환된다.
+
+![](images/mk_joystick_arcade_gpio.png)
+
+기본적으로는 1P를 기준으로 했으며, 2P 용으로는 GPIO를 모두 소진한다는 문제 때문에 2P는 optional 하게 추가 지원하도록 했다.
+
+1P의 경우, HK를 GPIO11로 사용하게 했는데, 이를 원활히 사용하려면 am_joyin 드라이버를 쓰면 된다.
+
+> ***info***  
+am_joyin 링크 : [https://github.com/amos42/am_joyin](https://github.com/amos42/am_joyin)
+
+
 
 ## 회로도
 
