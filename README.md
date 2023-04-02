@@ -33,6 +33,9 @@
 [Raspberry Pie GPIO 입력 모듈](joystick_gpio_input/)
 ([README.md](joystick_gpio_input/README.md))
 
-![joystick_gpio_input](joystick_gpio_input/images/joystick_gpio_input.jpg)
+![joystick_gpio_input (main part)](joystick_gpio_input/joystick_gpio_input_main_part/images/joystick_gpio_input_main_part_sample_image_1.jpg)
+
+![joystick_gpio_input (1p part)](joystick_gpio_input/joystick_gpio_input_1p_rasp_part/images/joystick_gpio_input_1p_rasp_part_sample_image_1.jpg)
+![joystick_gpio_input (2p part)](joystick_gpio_input/joystick_gpio_input_2p_rasp_part/images/joystick_gpio_input_2p_rasp_part_sample_image_1.jpg)
 
 ---
