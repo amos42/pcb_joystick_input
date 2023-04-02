@@ -6,8 +6,8 @@
 
   (paper "A4")
   (title_block
-    (title "Raspberry Pie GPIO Input Module")
-    (date "2023-03-26")
+    (title "Raspberry Pie GPIO Input Module (2P Part)")
+    (date "2023-04-02")
     (rev "2")
     (company "Amos Home")
   )
@@ -111,8 +111,8 @@
   (net 11 "/2P_Y")
   (net 12 "/2P_TL")
   (net 13 "/2P_TR")
-  (net 14 "unconnected-(J7-Pin_5-Pad5)")
-  (net 15 "unconnected-(J7-Pin_6-Pad6)")
+  (net 14 "unconnected-(J1-Pin_5-Pad5)")
+  (net 15 "unconnected-(J1-Pin_6-Pad6)")
 
   (footprint "joystick_gpio_input_library:conn_ex_1x13_P1.25mm_Vertical_Right_Labeled" (layer "B.Cu")
     (tstamp 0938977f-5337-42f5-a506-83bdc202394c)
@@ -125,7 +125,7 @@
     (property "ki_keywords" "connector")
     (path "/4e46b2c4-412d-4001-acb1-24debedf825a")
     (attr through_hole)
-    (fp_text reference "J9" (at 7.493 -1.8542 90) (layer "B.SilkS") hide
+    (fp_text reference "J2" (at 7.493 -1.8542 90) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 613b9e7f-c74a-4eb9-9c63-7c0a7b9b67da)
     )
@@ -253,7 +253,7 @@
     (property "ki_keywords" "connector")
     (path "/91efc02c-98a7-4360-9231-cc8a166cf66d")
     (attr through_hole)
-    (fp_text reference "J11" (at 7.493 1.8288 90) (layer "B.SilkS") hide
+    (fp_text reference "J3" (at 7.493 1.8288 90) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 5cd7f26a-87eb-44a6-addf-8ec43cedc5bc)
     )
@@ -381,7 +381,7 @@
     (property "ki_keywords" "connector")
     (path "/3baa42fa-75f9-484a-9fed-d2be573a07f4")
     (attr through_hole)
-    (fp_text reference "J7" (at -1.27 2.77) (layer "B.SilkS") hide
+    (fp_text reference "J1" (at -1.27 2.77) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 95b5a901-3930-4e19-bac0-dd598c691243)
     )
@@ -436,9 +436,9 @@
     (pad "4" thru_hole oval (at -2.54 -2.54 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 10 "/2P_X") (pinfunction "Pin_4") (pintype "passive") (tstamp 5683ada1-06b1-40ed-8d27-d5d66dbc50d7))
     (pad "5" thru_hole oval (at 0 -5.08 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
-      (net 14 "unconnected-(J7-Pin_5-Pad5)") (pinfunction "Pin_5") (pintype "passive+no_connect") (tstamp e023b47e-aefe-44a7-bd29-a381478eb4d9))
+      (net 14 "unconnected-(J1-Pin_5-Pad5)") (pinfunction "Pin_5") (pintype "passive+no_connect") (tstamp e023b47e-aefe-44a7-bd29-a381478eb4d9))
     (pad "6" thru_hole oval (at -2.54 -5.08 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
-      (net 15 "unconnected-(J7-Pin_6-Pad6)") (pinfunction "Pin_6") (pintype "passive+no_connect") (tstamp e9b89b01-a7c6-4ae2-8500-020d0da49d82))
+      (net 15 "unconnected-(J1-Pin_6-Pad6)") (pinfunction "Pin_6") (pintype "passive+no_connect") (tstamp e9b89b01-a7c6-4ae2-8500-020d0da49d82))
     (pad "7" thru_hole oval (at 0 -7.62 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 3 "/2P_DOWN") (pinfunction "Pin_7") (pintype "passive") (tstamp f84625c5-f394-4ce8-a4de-76ba189d0b8c))
     (pad "8" thru_hole oval (at -2.54 -7.62 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")

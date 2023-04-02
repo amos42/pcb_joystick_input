@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (title "Raspberry Pie GPIO Input Module")
-    (date "2023-03-26")
+    (title "Raspberry Pie GPIO Input Module (2P Part)")
+    (date "2023-04-02")
     (rev "2")
     (company "Amos Home")
   )
@@ -665,10 +665,10 @@
   (symbol (lib_id "Connector_Generic:Conn_02x09_Odd_Even") (at 141.478 99.695 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3baa42fa-75f9-484a-9fed-d2be573a07f4)
-    (property "Reference" "J7" (at 142.748 84.455 0)
+    (property "Reference" "J1" (at 142.748 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_02x09_Odd_Even" (at 142.748 86.995 0)
+    (property "Value" "Conn_02x09_Odd_Even" (at 142.748 86.36 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x09_P2.54mm_Vertical" (at 141.478 99.695 0)
@@ -698,7 +698,7 @@
     (instances
       (project "joystick_gpio_input_2p_rasp_part"
         (path "/fa38296e-cdcc-4309-9d50-3ec5b62681ed"
-          (reference "J7") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -707,7 +707,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x13") (at 100.965 97.155 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4e46b2c4-412d-4001-acb1-24debedf825a)
-    (property "Reference" "J9" (at 98.425 97.155 0)
+    (property "Reference" "J2" (at 98.425 97.155 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x13" (at 97.917 112.395 90)
@@ -735,7 +735,7 @@
     (instances
       (project "joystick_gpio_input_2p_rasp_part"
         (path "/fa38296e-cdcc-4309-9d50-3ec5b62681ed"
-          (reference "J9") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -744,7 +744,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x13") (at 182.245 97.155 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 91efc02c-98a7-4360-9231-cc8a166cf66d)
-    (property "Reference" "J11" (at 184.785 97.155 0)
+    (property "Reference" "J3" (at 184.785 97.155 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x13" (at 185.166 93.345 90)
@@ -772,7 +772,7 @@
     (instances
       (project "joystick_gpio_input_2p_rasp_part"
         (path "/fa38296e-cdcc-4309-9d50-3ec5b62681ed"
-          (reference "J11") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
