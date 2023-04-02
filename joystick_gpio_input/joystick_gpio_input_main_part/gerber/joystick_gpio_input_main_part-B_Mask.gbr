@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*%
-%TF.CreationDate,2023-04-02T14:30:40+09:00*%
+%TF.CreationDate,2023-04-03T00:09:29+09:00*%
 %TF.ProjectId,joystick_gpio_input_main_part,6a6f7973-7469-4636-9b5f-6770696f5f69,2*%
 %TF.SameCoordinates,PX7863d30PY784b050*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.1) date 2023-04-02 14:30:40*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-04-03 00:09:29*
 %MOMM*%
 %LPD*%
 G01*
