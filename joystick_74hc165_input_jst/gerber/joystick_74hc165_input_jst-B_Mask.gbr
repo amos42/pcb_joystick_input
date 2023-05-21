@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.10)*%
-%TF.CreationDate,2023-02-13T19:28:03+09:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*%
+%TF.CreationDate,2023-05-21T17:20:38+09:00*%
 %TF.ProjectId,joystick_74hc165_input_jst,6a6f7973-7469-4636-9b5f-373468633136,1*%
 %TF.SameCoordinates,PX6f92990PY6f3bc80*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.10)) date 2023-02-13 19:28:03*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-05-21 17:20:38*
 %MOMM*%
 %LPD*%
 G01*
