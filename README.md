@@ -39,3 +39,11 @@
 ![joystick_gpio_input (2p part)](joystick_gpio_input/joystick_gpio_input_2p_rasp_part/images/joystick_gpio_input_2p_rasp_part_sample_image_1.jpg)
 
 ---
+
+[Arcade 입력 패널 Support 보드](arcade_input_panel_support/)
+([README.md](arcade_input_panel_support/README.md))
+
+![Arcade 입력 패널 Support 보드](arcade_input_panel_support/images/sample_01.jpg)
+
+---
+
