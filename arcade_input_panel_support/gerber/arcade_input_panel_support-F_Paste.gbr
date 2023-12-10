@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7*%
-%TF.CreationDate,2023-12-08T18:01:47+09:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2023-12-10T20:46:49+09:00*%
 %TF.ProjectId,arcade_input_panel_support,61726361-6465-45f6-996e-7075745f7061,1*%
-%TF.SameCoordinates,PX25c9d40PY7f6a2a0*%
+%TF.SameCoordinates,PX2246a88PY7fa82d0*%
 %TF.FileFunction,Paste,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.7) date 2023-12-08 18:01:47*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2023-12-10 20:46:49*
 %MOMM*%
 %LPD*%
 G01*
