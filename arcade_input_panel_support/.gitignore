@@ -3,5 +3,6 @@
 *.bak
 *-bak
 _autosave-*
+*.lck
 *-backups
 */gerber/*.zip
