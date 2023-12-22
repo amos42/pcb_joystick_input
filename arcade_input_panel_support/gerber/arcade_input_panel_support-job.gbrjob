@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.9"
     },
-    "CreationDate": "2023-12-10T20:46:49+09:00"
+    "CreationDate": "2023-12-22T18:19:36+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "arcade_input_panel_support",
       "GUID": "61726361-6465-45f6-996e-7075745f7061",
-      "Revision": "1"
+      "Revision": "2"
     },
     "Size": {
       "X": 117.448,
